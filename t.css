@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Belanosima&family=Kablammo&family=Lalezar&family=Lobster&family=Loved+by+the+King&family=Monoton&family=Orbitron&family=Roboto:wght@500&family=Zeyada&display=swap');
+
+body{
+    background-color: rgb(221, 221, 233);
+    display : flex;
+    justify-content: center;
+    height : 100vh;
+    align-items: center;
+}
+
+img{
+    margin-top : 0px;
+    border-radius: 20px;
+    
+}
+h3{
+  text-align: center;
+  font-weight: bold;
+  COLOR : rgb(36, 20, 20); 
+  
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-left : 0px;
+    color : rgb(104, 104, 126);
+}
+.container{
+    margin-top : 0px;
+    width : 291px;
+    height:420px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    padding : 20px 20px 40px 20px;
+    font-family: 'Roboto', sans-serif;
+}
